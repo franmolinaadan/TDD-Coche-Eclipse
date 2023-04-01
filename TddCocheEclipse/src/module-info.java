@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author FMA
+ *
+ */
+module TddCocheEclipse {
+}
